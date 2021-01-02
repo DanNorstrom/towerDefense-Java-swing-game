@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TowerDefence:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a2b3bcc-9305-4daf-a901-fccc38bd7534" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UFXnul2cFDgcj8GspAayxmspYV" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Game (1)">
+    <configuration name="Game (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game" />
+      <module name="TowerDefence" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Asssignment2.Game" />
+      <module name="TowerDefence" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Asssignment2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game (1)" />
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a2b3bcc-9305-4daf-a901-fccc38bd7534" name="Default Changelist" comment="" />
+      <created>1574953487433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574953487433</updated>
+      <workItem from="1574953490781" duration="40000" />
+      <workItem from="1574953606903" duration="44000" />
+      <workItem from="1574953654750" duration="15184000" />
+      <workItem from="1574969688142" duration="11405000" />
+      <workItem from="1574983858033" duration="934000" />
+      <workItem from="1575118333800" duration="35128000" />
+      <workItem from="1575202757695" duration="14972000" />
+      <workItem from="1575220211785" duration="15556000" />
+      <workItem from="1575307771642" duration="298000" />
+      <workItem from="1575308905769" duration="19618000" />
+      <workItem from="1575385752908" duration="23351000" />
+      <workItem from="1575485116287" duration="69000" />
+      <workItem from="1575495452428" duration="20112000" />
+      <workItem from="1575570687446" duration="26227000" />
+      <workItem from="1575599667225" duration="833000" />
+      <workItem from="1575641834008" duration="205000" />
+      <workItem from="1576011849166" duration="1513000" />
+      <workItem from="1576187598977" duration="4270000" />
+      <workItem from="1576259185628" duration="16798000" />
+      <workItem from="1576358882616" duration="1346000" />
+      <workItem from="1576409442806" duration="872000" />
+      <workItem from="1576414645915" duration="8386000" />
+      <workItem from="1576435704465" duration="1264000" />
+      <workItem from="1576444208836" duration="645000" />
+      <workItem from="1576521211315" duration="137000" />
+      <workItem from="1576525210492" duration="2041000" />
+      <workItem from="1576648066889" duration="591000" />
+      <workItem from="1579791148672" duration="1235000" />
+      <workItem from="1596363759820" duration="1522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
